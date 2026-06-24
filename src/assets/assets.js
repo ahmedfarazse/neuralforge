@@ -41,7 +41,7 @@ export const company_logos = [
 ]
 
 const assets = {
-  logo,
+ 
   arrow_icon,
   group_profile,
   bgImage1,
@@ -62,7 +62,7 @@ const assets = {
   twitter_icon,
   instagram_icon,
   linkedin_icon,
-  logo_dark,
+ 
   menu_icon_dark,
   sun_icon,
   moon_icon
